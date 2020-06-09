@@ -1,0 +1,29 @@
+var members= `[{
+	"name": "Bob",
+	"image": "img/father.png",
+	"relation": "Father"
+},{
+	"name": "Maria",
+	"image": "img/mother.png",
+	"relation": "Mother"
+},{
+	"name": "Marc",
+	"image": "",
+	"relation": "Brother"
+},{
+	"name": "Max",
+	"image": "",
+	"relation": "Cousin"
+},{
+	"name": "Moritz",
+	"image": "",
+	"relation": "Cousin"
+},{
+	"name": "Susi",
+	"image": "",
+	"relation": "Sister"
+},{
+	"name": "Chantal",
+	"image": "",
+	"relation": "Friend"
+}]`
